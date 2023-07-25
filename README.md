@@ -1,0 +1,1 @@
+# READNOTE_Bishop-Pattern-Recognition-and-Machine-Learning-2006
