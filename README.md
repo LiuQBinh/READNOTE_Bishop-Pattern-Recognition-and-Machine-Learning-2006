@@ -1,6 +1,9 @@
-# READNOTE_Bishop-Pattern-Recognition-and-Machine-Learning-2006
+This is my note when I read the books "Bishop-Pattern-Recognition-and-Machine-Learning-2006".
+Sometime, I will note by Vietnamese.
 
-# 1 Introduction 1
+Link download: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+
+# 1 Introduction
     1.1 Example: Polynomial Curve Fitting
     1.2 Probability Theory
     1.2.1 Probability densities
