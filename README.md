@@ -67,7 +67,7 @@ Link download: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bis
     3.6 Limitations of Fixed Basis Functions
     Exercises 
 
-# 4 Linear Models for Classification 179
+# 4 Linear Models for Classification
     4.1 Discriminant Functions
     4.1.1 Two classes
     4.1.2 Multiple classes
